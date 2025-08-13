@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi, I'm Mica!
 
+
 **Data Engineer & Cloud Enthusiast** with a background in frontend development.
 
 While most of [my professional work](https://awg.la/) 👀 is proprietary and cannot be shared publicly, I’m actively **reactivating my GitHub** with open-source projects. ✧ ｡ ･ﾟ* 🧚 
@@ -23,7 +24,6 @@ While most of [my professional work](https://awg.la/) 👀 is proprietary and ca
 🤖 Turning raw data into smart decisions — powered by a bit of AI magic and a lot of curiosity!
 
 ✨ Bringing data pipelines to life with heart, code, and a splash of creativity. 
-
 
 📍 Argentina | 🌐 [LinkedIn](https://www.linkedin.com/in/micaelaartiaga) 
 
