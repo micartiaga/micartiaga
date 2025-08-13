@@ -31,8 +31,6 @@ While most of [my professional work](https://awg.la/) 👀 is proprietary and ca
 
 <div align="center" >
 
-### 🛠️ Tech Stack  
-
 <h4><bold>Cloud & Data</bold></h4>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
 <img alt="S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" />
